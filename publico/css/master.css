@@ -1,0 +1,7 @@
+.negrita tr td:nth-child(1){
+	font-weight: bold;
+}
+.hover:hover{
+	cursor: pointer;
+	background:;
+};
